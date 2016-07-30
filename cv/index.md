@@ -39,6 +39,21 @@ title: Kevin Schiroo, C.V.
 - Expanded perl test suite code coverage
 
 ---------------------------
+
+# Skills #
+
+__Programming Languages__  
+_Professional:_ Python, C++, C, Perl, SQL  
+_Hobbyist:_ Javascript, C#, Bash
+
+__Analysis__
+
+- Machine learning for insights and prediction
+- Hadoop for big datas
+- Communicating results for all levels of expertise
+
+---------------------------
+
 # Education #
 {% include degree.html deg_title="Ph.D. student"
                        university="University of Minnesota"
@@ -53,12 +68,22 @@ title: Kevin Schiroo, C.V.
                        gpa="GPA 4.0, Summa Cum Laude"%}
 
 ---------------------------
+
 # Distinctive experience #
 {% include job.html job_title="Writing Consultant"
                    employeer="Coe College Writing Center"
                    job_date="August 2009 - May 2013"
                    location="Cedar Rapids, IA"%}
+- Conducted writing workshops in partnership with professors
+- Led small group discussion sessions to facilitate reflection and collaboration
+  with peers
+- Provided individual writing conferences with students to aid in all parts of
+  the writing process from brainstorming to proofreading
+
 {% include job.html job_title="Treasurer"
                    employeer="Math Club"
                    job_date="August 2010 - May 2013"
                    location="Cedar Rapids, IA"%}
+- Organized colloquium series in partnership with Mathematics department
+- Managed a yearly budget of ~$10,000
+- Wrote and presented budget proposals to student government
