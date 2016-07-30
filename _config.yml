@@ -1,2 +1,5 @@
 name: Kevin Schiroo
-markdown: kramdown
+markdown: redcarpet
+
+redcarpet:
+ extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
