@@ -49,7 +49,7 @@ _Hobbyist:_ Javascript, C#, Bash
 __Analysis__
 
 - Machine learning for insights and prediction
-- Hadoop for big datas
+- Hadoop for big data sets
 - Communicating results for all levels of expertise
 
 ---------------------------
