@@ -16,3 +16,6 @@ title: The things I do
 - __[academic_classification](https://github.com/WikiEducationFoundation/academic_classification)__:
   A package utilizing machine learning to classify Wikipedia pages as
   academic or non-academic.
+- __[Metrotracker](/projects/metrotracker)__:
+  A map tracking the current position of all Metro Transit vehicles currently
+  in service.
