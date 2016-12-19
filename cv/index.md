@@ -4,7 +4,7 @@ title: Kevin Schiroo, C.V.
 ---
 
 # Professional experience #
-{% include job.html job_title="Graduate research assistant"
+{% include job.html job_title="Graduate student"
                     employeer="Grouplens Lab"
                     job_date="May 2015 - Present"
                     location="University of Minnesota, Minneapolis, MN"%}
@@ -58,6 +58,11 @@ __Analysis__
 {% include degree.html deg_title="Ph.D. student"
                        university="University of Minnesota"
                        deg_date="August 2014 - Present"
+                       deg_area="Computer Science"
+                       location="Twin Cities, MN"%}
+{% include degree.html deg_title="M.S."
+                       university="University of Minnesota"
+                       deg_date="August 2014 - December 2016"
                        deg_area="Computer Science"
                        location="Twin Cities, MN"%}
 {% include degree.html deg_title="B.A."
