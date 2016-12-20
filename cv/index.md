@@ -4,7 +4,7 @@ title: Kevin Schiroo, C.V.
 ---
 
 # Professional experience #
-{% include job.html job_title="Graduate student"
+{% include job.html job_title="Graduate fellow / Teaching Assistant / Research Assistant"
                     employeer="Grouplens Lab"
                     job_date="May 2015 - Present"
                     location="University of Minnesota, Minneapolis, MN"%}
