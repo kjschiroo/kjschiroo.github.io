@@ -8,7 +8,7 @@ title: Kevin Schiroo, C.V.
                     employeer="Grouplens Lab"
                     job_date="May 2015 - Present"
                     location="University of Minnesota, Minneapolis, MN"%}
- - Design and execute studies examining productively, efficiency, and
+ - Design and execute studies examining productivity, efficiency, and
    perceptions of quality on peer production systems
  - Led change in group communication and productivity through evangelism and
    administration of modern communication tools
