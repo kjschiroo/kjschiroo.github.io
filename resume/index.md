@@ -70,7 +70,8 @@ __Analysis__
                        university="University of Minnesota"
                        deg_date="August 2014 - December 2016"
                        deg_area="Computer Science"
-                       location="Twin Cities, MN"%}
+                       location="Twin Cities, MN"%
+                       gpa="GPA 4.0"}
 {% include degree.html deg_title="B.A."
                        university="Coe College"
                        deg_date="August 2009 - May 2013"
