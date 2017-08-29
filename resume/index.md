@@ -1,12 +1,23 @@
 ---
 layout: default
-title: Kevin Schiroo, C.V.
+title: Kevin Schiroo, Resume
 ---
 
 # Professional experience #
+{% include job.html job_title="Software Engineer / Data Scientist"
+                    employeer="The Nerdery"
+                    job_date="February 2017 - Present"
+                    location="Bloomington, MN"%}
+ - Led project developing and deploying machine learning into a production
+   environment for business process improvement
+ - Develop and support web applications in a variety of Python web frameworks
+   including Django, Webapp2, and Flask.
+ - Work directly with clients to gather business goals and translate them into
+   application features.
+
 {% include job.html job_title="Graduate fellow / Teaching Assistant / Research Assistant"
                     employeer="Grouplens Lab"
-                    job_date="May 2015 - Present"
+                    job_date="May 2015 - January 2017"
                     location="University of Minnesota, Minneapolis, MN"%}
  - Design and execute studies examining productivity, efficiency, and
    perceptions of quality on peer production systems
@@ -55,11 +66,6 @@ __Analysis__
 ---------------------------
 
 # Education #
-{% include degree.html deg_title="Ph.D. student"
-                       university="University of Minnesota"
-                       deg_date="August 2014 - Present"
-                       deg_area="Computer Science"
-                       location="Twin Cities, MN"%}
 {% include degree.html deg_title="M.S."
                        university="University of Minnesota"
                        deg_date="August 2014 - December 2016"
