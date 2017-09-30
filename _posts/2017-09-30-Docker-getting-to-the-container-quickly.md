@@ -2,6 +2,7 @@
 layout: post
 title: "Docker: Getting to the container quickly"
 date: 2017-09-30
+comments: true
 ---
 
 Small barriers can really kill productivity. Recently I've been dealing with
