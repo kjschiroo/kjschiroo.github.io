@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transit Tracker: Hardware"
-date: 2018-02-01
+date: 2018-02-04
 comments: true
 ---
 Ever since moving near a light rail station I've been looking for a way to visualize the trains' movement across the cities. When I first planted myself in the Twin Cities I was using the light rail almost every day and became accustom to its peculiarities, how it always seemed like there were more trains bound for where I wasn't going than where I was, how you'd get long unexpected waits followed by two trains a few minutes apart. I wanted to gain a birds-eye view to get some real context into what was going on across the whole system.
