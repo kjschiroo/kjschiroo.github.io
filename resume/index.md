@@ -4,9 +4,18 @@ title: Kevin Schiroo, Resume
 ---
 
 # Professional experience #
+{% include job.html job_title="Data Engineer"
+                    employeer="When I Work"
+                    job_date="February 2018 - Present"
+                    location="Minneapolis, MN"%}
+ - Manage data ingest infrastructure and supporting services.
+ - Develop and distribute private Python packages for data processing and AWS
+   service interaction.
+ 
+
 {% include job.html job_title="Software Engineer / Data Scientist"
                     employeer="The Nerdery"
-                    job_date="February 2017 - Present"
+                    job_date="February 2017 - February 2018"
                     location="Bloomington, MN"%}
  - Led project developing and deploying machine learning into a production
    environment for business process improvement
