@@ -4,9 +4,8 @@ title: Kevin Schiroo
 ---
 # Hi there! #
 
-<img style="float: right; padding: 10px"
- src="{{ site.url }}/assets/self.jpg"
- title="Credit Sage Ross, CC BY-SA 2.0">
+<img style="float: right; padding: 10px" width="400"
+ src="{{ site.url }}/assets/self_2018.png">
 
 My name is Kevin Schiroo. I'm a computer scientist living in the Twin Cities.
 I've done a lot of things. I've worked as a data scientist with the
