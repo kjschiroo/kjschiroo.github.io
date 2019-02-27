@@ -18,5 +18,4 @@ gathering it, and analyzing it. I've specifically taken an interest in
 local data. We live in a global society now, but somewhere along the
 way I think we collectively forgot how big the world right next to us
 still is.
-
 <div style="clear: right"></div>
