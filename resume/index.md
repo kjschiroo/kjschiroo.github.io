@@ -11,6 +11,8 @@ title: Kevin Schiroo, Resume
  - Manage data ingest infrastructure and supporting services.
  - Develop and distribute private Python packages for data processing and AWS
    service interaction.
+ - Architect serialization and training scheme for machine learning models to
+   enable evolutionary training and reproducible results.
  
 
 {% include job.html job_title="Software Engineer / Data Scientist"
@@ -63,14 +65,13 @@ title: Kevin Schiroo, Resume
 # Skills #
 
 __Programming Languages__  
-_Professional:_ Python, C++, C, Perl, SQL  
-_Hobbyist:_ Javascript, C#, Bash
+_Professional:_ Python, Javascript, SQL, Terraform  
+_Rusty:_ C++, C#
 
-__Analysis__
+__Frameworks:__
+Vue, React, React Native, Flask, Django
 
-- Machine learning for insights and prediction
-- Hadoop for big data sets
-- Communicating results for all levels of expertise
+__Favorite Clouds:__ AWS, Google
 
 ---------------------------
 
